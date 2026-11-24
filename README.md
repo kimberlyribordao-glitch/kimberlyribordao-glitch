@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:0a0a0a,100:e63946" width="100%" alt="">
-
-<img src="./assets/abertura.png" width="100%" alt="Olá, eu sou a Kimberly. Soluções que simplificam o dia. Desenvolvedora ServiceNow júnior. Aqui compartilho o que construo e o que aprendo com UI Builder, App Engine e Custom Workspaces.">
 
 ## Bem-vindo ao meu perfil 🖤
 
