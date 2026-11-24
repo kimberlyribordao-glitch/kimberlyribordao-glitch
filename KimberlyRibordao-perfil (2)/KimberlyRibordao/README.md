@@ -49,6 +49,7 @@ Oi! Eu sou a Kimberly, **desenvolvedora ServiceNow júnior**, focada em construi
 - HTML
 - CSS
 - SQL
+- java
 
 ## 🚀 No que eu trabalho
 
@@ -66,14 +67,13 @@ Meus principais interesses:
 ## Vamos conversar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kimberly-ribord%C3%A3o-196544330" target="_blank">
+  <a href="https://www.linkedin.com/in/kimberly-ribordao-196544330">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn">
   </a>
-  <a href="mailto:kimberlyribordao@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kimberlyribordao@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail">
   </a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimberlyribordao-glitch/kimberlyribordao-glitch/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimberlyribordao-glitch/kimberlyribordao-glitch/output/pacman-contribution-graph.svg">
