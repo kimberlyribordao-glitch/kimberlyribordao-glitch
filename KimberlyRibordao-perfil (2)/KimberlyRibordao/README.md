@@ -28,6 +28,8 @@ Oi! Eu sou a Kimberly, **desenvolvedora ServiceNow júnior**, focada em construi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="HTML">
+  
 </p>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lmdTl1cnUxcnJ3c291ZWtjM3NhOWhmZmZ2YmQ2eWZkYzRvNzh3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" alt="Macaco digitando em um notebook">
